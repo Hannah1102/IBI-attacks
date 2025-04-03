@@ -2,7 +2,7 @@
 
 <img src=imgs/teaser.png  width="80%" height="60%">
 
-This code is the official PyTorch implementation of [Implicit Bias Injection Attacks agasint Text-to-Image Diffusion Models](https://arxiv.org/abs/2411.03862).
+This code is the official PyTorch implementation of [Implicit Bias Injection Attacks agasint Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.01819).
 
 If you have any questions, feel free to email <hyhuang@whu.edu.cn>
 
